@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Insta-%23E4405F.svg?logo=Instagram&logoColor=white&color=crimson)](https://instagram.com/karan.kp_) [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karan-pawar-212599219) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/oni0nionk) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@KaranPawar81) <a title="karan.p2001hello@gmail.com" href="karan.p2001hello@gmail.com">
+[![Instagram](https://img.shields.io/badge/Insta-%23E4405F.svg?logo=Instagram&logoColor=white&color=crimson)](https://instagram.com/karan.kp_) [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karan-pawar-212599219) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/oni0nionk) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@KaranPawar81) <a title="karan.p2001hello@gmail.com" href="mailto:karan.p2001hello@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=square&logo=gmail&logoColor=white" height="20px" alt="karancs081@gmail.com" />
     </a>
 
